@@ -2,6 +2,7 @@
 
 namespace App;
 
+// Le commentaire 1
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
@@ -17,7 +18,7 @@ class User extends Authenticatable
     protected $fillable = [
         'name', 'email', 'password',
     ];
-
+    // Le commentaire 2
     /**
      * The attributes that should be hidden for arrays.
      *
