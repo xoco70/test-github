@@ -5,6 +5,8 @@ namespace App;
 // Le commentaire 1
 // nouv comment vd 106_01
 
+// nouv comment vd 106_02
+
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
